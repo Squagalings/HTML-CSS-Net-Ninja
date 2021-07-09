@@ -1,0 +1,4 @@
+- stands for hyper text markup language
+- works alongside HTML
+- used to style web pages to make them look better
+- change colours 
